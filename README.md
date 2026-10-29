@@ -1,4 +1,4 @@
-# CodeAlpha Internship — Task 2: Exploratory Data Analysis (EDA)
+# Task 2: Exploratory Data Analysis (EDA)
 
 ## Project overview
 This project uses Python, Pandas, NumPy, Matplotlib, and SciPy to explore an e-commerce orders dataset, identify patterns, check data quality, visualize results, and test simple hypotheses.
